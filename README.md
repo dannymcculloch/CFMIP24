@@ -5,6 +5,6 @@ Hi 👋, this is addtional material for the CFMIP poster. The additional figures
 - Vertical profile differences for EP and WP
 - A 3D rendering of the dataset made with PyVista
 
-For any questions or comments - just get in contact!
+For any questions or comments - just get in contact at dm575@exeter.ac.uk!
 
 3D render available for download [here](https://github.com/dannymcculloch/geovista_figures/blob/main/scene-export.html)
