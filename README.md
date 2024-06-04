@@ -7,5 +7,4 @@ Hi 👋, this is addtional material for the CFMIP poster. The additional figures
 
 For any questions or comments - just get in contact!
 
-3D render:
-![Alt Text](https://github.com/dannymcculloch/geovista_figures/blob/main/scene-export.html)
+3D render available for download [here](https://github.com/dannymcculloch/geovista_figures/blob/main/scene-export.html)
