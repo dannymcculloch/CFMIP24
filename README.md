@@ -3,7 +3,7 @@ Hi 👋, this is addtional material for the CFMIP poster. The additional figures
 - 500hpa plots
 - 850hpa plots
 - Vertical profile differences for EP and WP
-- A 3D rendering of the dataset made with PyVista
+- An *interactive* 3D rendering of the dataset made with PyVista
 
 For any questions or comments - just get in contact at dm575@exeter.ac.uk!
 
