@@ -11,3 +11,4 @@ For any questions or comments - just get in contact at dm575@exeter.ac.uk!
 - Monthly outputs averaged over 20 YEARS (Sep 1985 - Sep 2005)
 - Met Office Unified Model using AMIP GA9 configuration 
 - Perturbations of -/+ 0.009 K per timestep over 72 timesteps per day (0.648 K per day) applied between 3km to 12km in the respective region
+- N96 resolution
